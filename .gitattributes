@@ -1,1 +1,1 @@
-Makefile linguist-documentation=true
+[Mm]akefile linguist-documentation=false linguist-vendored
