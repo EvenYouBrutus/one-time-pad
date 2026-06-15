@@ -1,0 +1,11 @@
+C:\Users\Anton\Desktop\pass_storage\target\debug\deps\blake2b_simd-4bf13a1130c38115.d: C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\lib.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\avx2.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\portable.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\sse41.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\blake2bp.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\guts.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\many.rs
+
+C:\Users\Anton\Desktop\pass_storage\target\debug\deps\libblake2b_simd-4bf13a1130c38115.rmeta: C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\lib.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\avx2.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\portable.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\sse41.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\blake2bp.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\guts.rs C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\many.rs
+
+C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\lib.rs:
+C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\avx2.rs:
+C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\portable.rs:
+C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\sse41.rs:
+C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\blake2bp.rs:
+C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\guts.rs:
+C:\Users\Anton\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\blake2b_simd-1.0.4\src\many.rs:
