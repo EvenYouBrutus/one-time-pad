@@ -1,4 +1,3 @@
-```markdown
 # otp-cipher
 
 A minimal, correct Rust implementation of the One-Time Pad (OTP) encryption scheme.
@@ -149,7 +148,3 @@ OTP security depends entirely on correct operational key handling.
 ## License
 
 Distributed under the MIT License.
-
-```
-
-```
