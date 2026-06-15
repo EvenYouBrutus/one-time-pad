@@ -1,12 +1,15 @@
 [package]
 name = "otp-cipher"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "One-Time Pad encryption library"
 license = "MIT"
 readme = "README.md"
 keywords = ["cryptography", "otp", "cipher"]
 categories = ["cryptography"]
+homepage = "https://github.com/EvenYouBrutus/otp-cipher"
+repository = "https://github.com/EvenYouBrutus/otp-cipher"
+documentation = "https://github.com/EvenYouBrutus/otp-cipher"
 
 [lib]
 path = "src/lib.rs"
