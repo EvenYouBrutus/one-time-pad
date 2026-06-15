@@ -3,7 +3,7 @@
 
 A minimal, correct Rust implementation of the One-Time Pad (OTP) encryption scheme.
 
-[![Crates.io](https://img.shields.io/crates/v/otp-cipher.svg?maxAge=0)](https://crates.io/crates/otp-cipher)
+[![Crates.io](https://img.shields.io/crates/v/otp-cipher.svg)](https://crates.io/crates/otp-cipher)
 [![Documentation](https://docs.rs/otp-cipher/badge.svg)](https://docs.rs/otp-cipher)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
