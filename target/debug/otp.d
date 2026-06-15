@@ -1,1 +1,0 @@
-C:\Users\Anton\Desktop\Simple\ One-Time\ pad\target\debug\otp.exe: C:\Users\Anton\Desktop\Simple\ One-Time\ pad\target\package\otp-cipher-0.1.1\src\lib.rs C:\Users\Anton\Desktop\Simple\ One-Time\ pad\target\package\otp-cipher-0.1.1\src\main.rs
